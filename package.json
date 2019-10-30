@@ -1,0 +1,24 @@
+{
+  "name": "@jasoftware/service_django_jwt",
+  "version": "1.0.0",
+  "description": "Service for Angular to access Django using JWT",
+  "main": "user_service.jwt",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homerjonathan/service_django_jwt.git"
+  },
+  "keywords": [
+    "angular",
+    "django",
+    "jwt"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/homerjonathan/service_django_jwt/issues"
+  },
+  "homepage": "https://github.com/homerjonathan/service_django_jwt#readme"
+}
